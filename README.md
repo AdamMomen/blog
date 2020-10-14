@@ -28,11 +28,11 @@ euguilhermegirardi, mpgxc
 
 >
   <a href="https://www.linkedin.com/in/adam-momen-99596275/">
-     <img align="left" alt="Adam Momen | Linkedin" width="24px" src="./Assets/Linkedin.svg" />
+     <img align="left" alt="Adam Momen | Linkedin" width="24px" src="./assets/Linkedin.svg" />
    </a>
 
    <a href="https://adammomen.com/">
-     <img align="left" alt="Adam Momen | Portfolio" width="24px" src="./Assets/web.svg" />
+     <img align="left" alt="Adam Momen | Portfolio" width="24px" src="./assets/web.svg" />
    </a>
 
 </samp>
