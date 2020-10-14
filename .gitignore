@@ -1,0 +1,14 @@
+#
+vendor
+
+# Remove envirmonment varilbes
+.env
+
+# remove history files
+*.history
+
+# vscode
+.vscode
+
+# github settings
+.github
