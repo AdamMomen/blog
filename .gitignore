@@ -11,4 +11,4 @@ vendor
 .vscode
 
 # github settings
-.github
+.github/**
