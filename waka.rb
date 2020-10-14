@@ -20,6 +20,7 @@ module Waka
       labels = ["Day", "Hours of coding", "Languages/Tech"]
       dataBucket = dataBucket.reverse()
 
+
      return  MarkdownTables.make_table(labels, dataBucket, is_rows: true)
     end
 
