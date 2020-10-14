@@ -35,7 +35,6 @@ module Waka
     codingSeconds = 0
     languages = []
 
-     puts "it should not be null #{ENV["WAKA_KEY"]}" 
     response["data"].each do |data|
 
       codingSeconds += data["grand_total"]["total_seconds"]
