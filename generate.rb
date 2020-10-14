@@ -33,5 +33,4 @@ recent_stars = client.stargazers("adammomen/adammomen", per_page: 100).map(&:log
 
 f = File.new('README.md', 'w')
 f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<code-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
-#f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<code-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
 f.close
