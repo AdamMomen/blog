@@ -20,7 +20,6 @@ module Waka
       labels = ["Day", "Hours of coding", "Languages/Tech"]
       dataBucket = dataBucket.reverse()
 
-      puts "finshed getting data #{ENV["WAKA_KEY"]}"
      return  MarkdownTables.make_table(labels, dataBucket, is_rows: true)
     end
 
@@ -36,6 +35,7 @@ module Waka
     codingSeconds = 0
     languages = []
 
+     puts "it should not be null #{ENV["WAKA_KEY"]}" 
     response["data"].each do |data|
 
       codingSeconds += data["grand_total"]["total_seconds"]
