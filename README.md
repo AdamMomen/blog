@@ -2,7 +2,7 @@
 ![test image size](/assets/welcome_message.gif)
 
 ## Coding
-Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
+Stats pulled from Wakatime, an extension that runs on my vscode IDE 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
