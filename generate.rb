@@ -24,13 +24,13 @@ require 'octokit'
 template = File.open('README_TEMPLATE.md', 'r')
 text = template.read
 
-puts "started getting wakatime data"
-whoop_data = Waka.getDevHours
+## Get stats from wakaTime api
+waka_data = Waka.getDevHours
 
 ## Stars
 client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
 recent_stars = client.stargazers("adammomen/adammomen", per_page: 100).map(&:login).reverse
 
 f = File.new('README.md', 'w')
-f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<code-stats>", whoop_data).gsub("<stars>", recent_stars.join(", ")))
+f.write(text.gsub("<star-count>", recent_stars.count.to_s).gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url).gsub("<code-stats>", waka_data).gsub("<stars>", recent_stars.join(", ")))
 f.close
