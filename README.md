@@ -1,5 +1,5 @@
 
-![test image size](/assets/welcome_message.gif)
+![](https://github.com/adammomen/adammomen/blob/master/assets/welcome_message.gif?height=800)
 
 ## Coding
 Stats pulled from Wakatime, an extension that runs on my vscode IDE 24/7.
