@@ -12,6 +12,10 @@ module Waka
     ""
   end
 
+  def self.filterTechnologies(languages)
+  languages.select{ |lang| !lan[/\Other$/] }
+  end
+
   def self.getDevHours(start=1, endDate=0, dataBucket=[])
     # base case if we reached the end of the week
     if (start ==  7 and endDate == 6)
