@@ -8,7 +8,7 @@ module Waka
     hours = (duration / (60 * 60)).truncate(0)
     minutes = (duration / ( 60 ) % 60).truncate(0)
     "#{hours}h #{minutes}m"
-  rescue
+  rescue JSON::ParserError
     ""
   end
 
