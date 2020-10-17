@@ -14,7 +14,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2020-10-17|0h 9m|JSON|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/8484ca7e-d51b-483b-b7b1-a6ced45f1a9c" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
+[<img src="https://hcti.io/v1/image/3e69df36-18d3-4378-999c-e3f03c08aa43" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
 
 ## Top 2 friends ⭐️
 euguilhermegirardi, mpgxc
