@@ -11,10 +11,10 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2020-10-16|1h 42m|Ruby &#124; Python &#124; Markdown &#124; YAML &#124; JavaScript &#124; Git Config &#124; Git &#124; Other &#124; CSS &#124; JSON|
 |2020-10-17|0h 9m|JSON|
 |2020-10-18|0h 0m||
-|2020-10-19|0h 0m||
+|2020-10-19|0h 4m|Python|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/e263b6a3-a917-43d2-a08a-06077d8c465d" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
+[<img src="https://hcti.io/v1/image/5711c522-ce7c-4edb-9840-3df6cba30540" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
 
 ## Top 2 friends ⭐️
 euguilhermegirardi, mpgxc
