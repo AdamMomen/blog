@@ -2,19 +2,19 @@
 ![test image size](/assets/welcome_message.gif)
 
 ## Coding
-Stats pulled from Wakatime, an extension that runs on my vscode editor 24/7.
+Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2020-10-10|4h 8m|Ruby &#124; Other &#124; JavaScript &#124; YAML &#124; Docker &#124; Markdown &#124; Git Config &#124; JSON|
-|2020-10-11|3h 21m|Ruby &#124; Other &#124; Markdown &#124; Git Config &#124; JSON &#124; JavaScript|
-|2020-10-12|1h 29m|Markdown &#124; Other &#124; Ruby &#124; JavaScript &#124; JSON &#124; HTML &#124; Git Config|
-|2020-10-13|2h 10m|Other &#124; Ruby &#124; HTML &#124; Markdown &#124; JavaScript &#124; Git Config &#124; JSON|
-|2020-10-14|2h 19m|Markdown &#124; Other &#124; Git Config &#124; JSON &#124; YAML &#124; TypeScript &#124; Ruby|
-|2020-10-15|2h 32m|Markdown &#124; Git Config &#124; YAML &#124; TypeScript &#124; Ruby &#124; Other &#124; Python &#124; JavaScript &#124; Git &#124; CSS|
+|2020-10-15|2h 33m|Markdown &#124; Git Config &#124; YAML &#124; TypeScript &#124; Ruby &#124; Other &#124; Python &#124; JavaScript &#124; Git &#124; CSS|
+|2020-10-16|1h 42m|Ruby &#124; Python &#124; Markdown &#124; YAML &#124; JavaScript &#124; Git Config &#124; Git &#124; Other &#124; CSS &#124; JSON|
+|2020-10-17|0h 9m|JSON|
+|2020-10-18|0h 0m||
+|2020-10-19|0h 4m|Python|
+|2020-10-20|0h 4m|Python|
 
 ## Latest tweet
-[<img src="https://hcti.io/v1/image/fe380a9e-9fe6-40ea-8cfa-bd7c90df9f89" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
+[<img src="https://hcti.io/v1/image/f715b53d-50cc-4afd-8ff6-a0e7ff67d85b" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
 
 ## Top 2 friends ⭐️
 euguilhermegirardi, mpgxc
