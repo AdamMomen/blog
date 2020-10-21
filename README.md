@@ -13,8 +13,8 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2020-10-20|0h 5m|Python &#124; Ruby|
 |2020-10-21|0h 2m|Ruby|
 
-## Latest tweet
-[<img src="<tweet-image-url>" width="400">](<tweet-url>)
+<!-- ## Latest tweet
+[<img src="<tweet-image-url>" width="400">](<tweet-url>) -->
 
 ## Top 2 friends ⭐️
 euguilhermegirardi, mpgxc
