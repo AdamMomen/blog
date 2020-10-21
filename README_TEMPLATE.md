@@ -6,8 +6,8 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 <code-stats>
 
-## Latest tweet
-[<img src="<tweet-image-url>" width="400">](<tweet-url>)
+<!-- ## Latest tweet
+[<img src="<tweet-image-url>" width="400">](<tweet-url>) -->
 
 ## Top <star-count> friends ⭐️
 <stars>
