@@ -35,7 +35,7 @@ f = File.new('README.md', 'w')
 f.write(
     text
     .gsub("<star-count>", recent_stars.count.to_s)
-# .gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url)
+    #.gsub("<tweet-image-url>", tweet_image).gsub("<tweet-url>", tweet_url)
     .gsub("<code-stats>", waka_data)
     .gsub("<stars>", recent_stars.join(", "))
 )
