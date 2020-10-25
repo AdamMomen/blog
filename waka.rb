@@ -47,7 +47,6 @@ module Waka
     end
 
     hoursOfCode = get_duration_hrs_and_mins(codingSeconds)
-    puts "it should | separated #{languages.uniq.join(' | ')}"
     dataBucket << [end_range, hoursOfCode, languages.uniq.join(' | ')]
     
     return getDevHours(start+1, endDate+1, dataBucket)
