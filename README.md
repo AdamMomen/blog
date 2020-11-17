@@ -2,6 +2,9 @@
 ![test image size](/assets/welcome_message.gif)
 
 ## Coding
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=adammomen" alt="adammomen" /> </p>
+
 Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
