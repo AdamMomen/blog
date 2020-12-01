@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2020-11-28|8h 43m|Python &#124; Other &#124; JSON|
 |2020-11-29|5h 23m|Python &#124; JSON|
 |2020-11-30|2h 50m|Python &#124; JSON|
-|2020-12-01|0h 10m|Python|
+|2020-12-01|1h 11m|Python &#124; JSON &#124; Other|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
