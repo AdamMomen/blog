@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2020-12-08|9h 24m|Python &#124; TypeScript &#124; JSON &#124; CSS &#124; JavaScript &#124; Other &#124; Markdown &#124; YAML &#124; HTML|
 |2020-12-09|6h 59m|Python &#124; TypeScript &#124; JSON &#124; CSS &#124; JavaScript &#124; Other &#124; Markdown &#124; YAML &#124; HTML &#124; Git Config &#124; Text|
 |2020-12-10|6h 55m|Python &#124; TypeScript &#124; JSON &#124; JavaScript &#124; Other &#124; Git Config &#124; Text &#124; Markdown &#124; HTML|
 |2020-12-11|10h 53m|JSON &#124; TypeScript &#124; Python &#124; Other &#124; Markdown &#124; Git Config &#124; HTML &#124; JavaScript|
 |2020-12-12|14h 7m|TypeScript &#124; Python &#124; JSON &#124; Git Config &#124; Other &#124; JavaScript &#124; Text &#124; Markdown|
 |2020-12-13|12h 38m|Python &#124; TypeScript &#124; JSON &#124; Git Config &#124; JavaScript &#124; Other &#124; Text &#124; Markdown &#124; HTML &#124; Git &#124; CSS|
+|2020-12-14|4h 27m|TypeScript &#124; JSON &#124; Git Config &#124; Python &#124; JavaScript &#124; HTML &#124; Other &#124; Git &#124; CSS &#124; Markdown|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
