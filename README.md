@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2021-01-18|4h 5m|YAML &#124; TypeScript &#124; Docker &#124; JavaScript &#124; JSON &#124; Git Config &#124; Other &#124; Bash &#124; Markdown|
 |2021-01-19|2h 18m|TypeScript &#124; JSON &#124; Other &#124; Markdown &#124; Git Config &#124; JavaScript|
 |2021-01-20|1h 34m|TypeScript &#124; Other|
-|2021-01-21|0h 0m||
+|2021-01-21|1h 22m|TypeScript &#124; JSON &#124; CSS|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
