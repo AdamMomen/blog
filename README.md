@@ -6,15 +6,15 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2021-02-12|3h 47m|JavaScript &#124; JSON &#124; Groovy &#124; TypeScript &#124; Other &#124; Python &#124; Prolog &#124; Properties &#124; XML &#124; Bash &#124; Batchfile|
-|2021-02-13|7h 23m|JavaScript &#124; JSON &#124; Groovy &#124; TypeScript &#124; Other &#124; Python &#124; Prolog &#124; Properties &#124; XML &#124; Bash &#124; Batchfile|
-|2021-02-14|3h 36m|JSON &#124; JavaScript &#124; Other|
-|2021-02-15|3h 6m|Other &#124; JSON &#124; JavaScript &#124; Markdown &#124; Git Config &#124; TypeScript|
-|2021-02-16|4h 2m|JSON &#124; JavaScript &#124; Markdown &#124; Git Config &#124; Other &#124; TypeScript &#124; Python|
-|2021-02-17|2h 35m|JSON &#124; JavaScript &#124; Python|
+|2021-03-02|2h 59m|TypeScript &#124; JavaScript &#124; Other &#124; JSON &#124; YAML &#124; Markdown|
+|2021-03-03|5h 12m|JSON &#124; JavaScript &#124; YAML &#124; Markdown &#124; TypeScript &#124; Other &#124; Bash &#124; Groovy|
+|2021-03-04|5h 44m|JavaScript &#124; JSON &#124; Other &#124; YAML &#124; Markdown &#124; Bash &#124; Groovy &#124; TypeScript &#124; Git Config|
+|2021-03-05|3h 12m|JavaScript &#124; JSON &#124; TypeScript &#124; Other &#124; Git Config|
+|2021-03-06|0h 31m|JavaScript &#124; Other|
+|2021-03-07|0h 0m||
 
 ## Latest tweet
-[<img src="<tweet-image-url>" width="400">](https://twitter.com/adammomen8/status/1316739109638090754)
+[<img src="<tweet-image-url>" width="400">](<tweet-url>)
 
 ## Top 1 friends ⭐️
 euguilhermegirardi
