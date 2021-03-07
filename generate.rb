@@ -34,10 +34,10 @@ recent_stars = client.stargazers("adammomen/adammomen", per_page: 100).map(&:log
 f = File.new('README.md', 'w')
 (text = text
 .gsub("<star-count>", recent_stars.count.to_s)
-#.gsub("<tweet-url>", tweet_url)
 .gsub("<code-stats>", waka_data)
 .gsub("<stars>", recent_stars.join(", "))
 )
+#.gsub("<tweet-url>", tweet_url)
 #if tweet_image
 # text = text.gsub("<tweet-image-url>", tweet_image)
 #end
