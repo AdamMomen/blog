@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2021-04-14|5h 29m|Markdown &#124; JavaScript &#124; TypeScript &#124; JSX &#124; JSON &#124; Bash &#124; Git Config &#124; Other|
 |2021-04-15|8h 21m|TypeScript &#124; JSX &#124; JSON &#124; JavaScript &#124; Bash &#124; Git Config &#124; Other &#124; Markdown|
 |2021-04-16|3h 51m|TypeScript &#124; JSON &#124; JavaScript &#124; Bash &#124; JSX &#124; Other &#124; Markdown|
 |2021-04-17|5h 53m|TypeScript &#124; JSON &#124; GraphQL &#124; YAML|
 |2021-04-18|5h 33m|TypeScript &#124; GraphQL &#124; YAML &#124; JSON &#124; CSS|
-|2021-04-19|5h 21m|TypeScript &#124; CSS &#124; Python &#124; JSON &#124; Java &#124; Bash &#124; TOML &#124; Text &#124; Git Config &#124; PowerShell &#124; CSV &#124; Other &#124; XML|
+|2021-04-19|5h 26m|TypeScript &#124; CSS &#124; Python &#124; JSON &#124; Java &#124; Bash &#124; TOML &#124; Text &#124; Git Config &#124; PowerShell &#124; CSV &#124; Other &#124; XML|
+|2021-04-20|4h 53m|Python &#124; JSON &#124; Java &#124; Bash &#124; TOML &#124; Text &#124; Git Config &#124; CSS &#124; PowerShell &#124; CSV &#124; Other &#124; XML|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
