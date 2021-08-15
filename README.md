@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2021-08-09|0h 19m|Other &#124; Python|
 |2021-08-10|0h 40m|Other &#124; Python &#124; YAML &#124; TypeScript &#124; SCSS|
 |2021-08-11|1h 44m|YAML &#124; TypeScript &#124; SCSS &#124; Python &#124; Bash|
 |2021-08-12|3h 5m|Python &#124; Bash &#124; HTML &#124; JavaScript &#124; Text|
 |2021-08-13|1h 40m|HTML &#124; Python &#124; JavaScript &#124; Text &#124; JSON|
 |2021-08-14|0h 0m|JSON &#124; Python &#124; HTML|
+|2021-08-15|0h 0m|Python &#124; HTML|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
