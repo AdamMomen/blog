@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2021-08-18|0h 31m|Python &#124; Other &#124; JSON &#124; Text|
 |2021-08-19|0h 6m|Python &#124; Text &#124; JSON|
 |2021-08-20|0h 6m|Python &#124; JSON|
-|2021-08-21|0h 0m||
+|2021-08-21|0h 6m|Java|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
