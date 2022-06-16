@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2022-06-10|0h 0m||
 |2022-06-11|0h 0m||
 |2022-06-12|0h 0m||
 |2022-06-13|0h 0m||
 |2022-06-14|0h 0m||
 |2022-06-15|0h 0m||
+|2022-06-16|0h 0m||
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
