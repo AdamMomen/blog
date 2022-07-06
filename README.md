@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2022-07-03|3h 12m|TypeScript &#124; HTML &#124; Scala &#124; JavaScript &#124; fugitive &#124; Other &#124; Markdown &#124; conf &#124; netrw|
 |2022-07-04|3h 49m|TypeScript &#124; HTML &#124; Scala &#124; JavaScript &#124; fugitive &#124; Other &#124; Markdown &#124; conf &#124; netrw|
 |2022-07-05|0h 51m|TypeScript &#124; Scala &#124; fugitive &#124; HTML &#124; JavaScript &#124; Other|
-|2022-07-06|0h 15m|fugitive &#124; Scala &#124; TypeScript|
+|2022-07-06|1h 25m|fugitive &#124; Scala &#124; TypeScript &#124; netrw &#124; Other &#124; Git|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
