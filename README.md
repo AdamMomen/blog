@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2022-07-09|6h 47m|fish &#124; Bash &#124; Other &#124; sshconfig &#124; netrw &#124; TypeScript &#124; Scala &#124; fugitive &#124; Vim Script &#124; JSON &#124; Lua &#124; Markdown &#124; conf &#124; Text &#124; Git &#124; HTML &#124; JavaScript &#124; YAML|
 |2022-07-10|6h 4m|TypeScript &#124; Scala &#124; fugitive &#124; Vim Script &#124; JSON &#124; Lua &#124; Markdown &#124; conf &#124; Bash &#124; netrw &#124; Text &#124; Git &#124; HTML &#124; JavaScript &#124; YAML|
 |2022-07-11|3h 10m|fugitive &#124; TypeScript &#124; Bash &#124; JSON &#124; sshconfig &#124; conf &#124; HTML &#124; Other &#124; Scala &#124; Lua &#124; JavaScript &#124; netrw|
 |2022-07-12|13h 45m|TypeScript &#124; Bash &#124; JSON &#124; sshconfig &#124; conf &#124; HTML &#124; Other &#124; Scala &#124; Lua &#124; JavaScript &#124; netrw &#124; fugitive &#124; Vim Script &#124; YAML &#124; fish &#124; Git|
 |2022-07-13|16h 52m|TypeScript &#124; fugitive &#124; Lua &#124; Vim Script &#124; Scala &#124; JavaScript &#124; HTML &#124; netrw &#124; conf &#124; Other &#124; Bash &#124; YAML &#124; sshconfig &#124; fish &#124; Git &#124; JSON &#124; Markdown|
 |2022-07-14|14h 53m|TypeScript &#124; fugitive &#124; Other &#124; conf &#124; JavaScript &#124; YAML &#124; JSON &#124; netrw &#124; Git &#124; Lua &#124; HTML &#124; Scala &#124; Markdown &#124; XML &#124; Python &#124; fish &#124; Bash|
+|2022-07-15|8h 36m|TypeScript &#124; fugitive &#124; Markdown &#124; netrw &#124; Other &#124; JavaScript &#124; JSON &#124; Git &#124; XML &#124; Python &#124; fish &#124; Lua &#124; Bash|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
