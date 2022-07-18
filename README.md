@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2022-07-12|13h 45m|TypeScript &#124; Bash &#124; JSON &#124; sshconfig &#124; conf &#124; HTML &#124; Other &#124; Scala &#124; Lua &#124; JavaScript &#124; netrw &#124; fugitive &#124; Vim Script &#124; YAML &#124; fish &#124; Git|
 |2022-07-13|16h 52m|TypeScript &#124; fugitive &#124; Lua &#124; Vim Script &#124; Scala &#124; JavaScript &#124; HTML &#124; netrw &#124; conf &#124; Other &#124; Bash &#124; YAML &#124; sshconfig &#124; fish &#124; Git &#124; JSON &#124; Markdown|
 |2022-07-14|14h 53m|TypeScript &#124; fugitive &#124; Other &#124; conf &#124; JavaScript &#124; YAML &#124; JSON &#124; netrw &#124; Git &#124; Lua &#124; HTML &#124; Scala &#124; Markdown &#124; XML &#124; Python &#124; fish &#124; Bash|
 |2022-07-15|11h 19m|TypeScript &#124; fugitive &#124; Markdown &#124; netrw &#124; Other &#124; JavaScript &#124; JSON &#124; Git &#124; XML &#124; Python &#124; fish &#124; Lua &#124; Bash &#124; Go &#124; HTML &#124; conf &#124; sshconfig &#124; Vim Script|
 |2022-07-16|5h 3m|TypeScript &#124; fugitive &#124; Bash &#124; JSON &#124; Markdown &#124; Other &#124; JavaScript &#124; Go &#124; HTML &#124; netrw &#124; conf &#124; Git &#124; sshconfig &#124; Vim Script &#124; fish &#124; INI &#124; sh|
 |2022-07-17|2h 23m|fish &#124; TypeScript &#124; fugitive &#124; netrw &#124; Go &#124; Other &#124; INI &#124; sh &#124; conf &#124; Git &#124; Vim Script|
+|2022-07-18|0h 3m|TypeScript &#124; fish &#124; netrw|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
