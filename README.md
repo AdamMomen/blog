@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2022-07-26|8h 3m|TypeScript &#124; JavaScript &#124; netrw &#124; JSON &#124; fugitive &#124; Markdown &#124; SCSS &#124; Other &#124; MDX &#124; conf &#124; CSS &#124; Scala &#124; Text &#124; Git|
 |2022-07-27|6h 47m|JavaScript &#124; JSON &#124; TypeScript &#124; fugitive &#124; Other &#124; netrw &#124; Scala &#124; Text &#124; SCSS &#124; Git &#124; Lua &#124; Vim Script &#124; conf|
 |2022-07-28|9h 56m|JavaScript &#124; fugitive &#124; Lua &#124; TypeScript &#124; Other &#124; JSON &#124; netrw &#124; Git &#124; Vim Script &#124; conf &#124; Text &#124; HTML|
-|2022-07-29|10h 32m|JavaScript &#124; TypeScript &#124; fugitive &#124; JSON &#124; Other &#124; netrw &#124; Git &#124; Text &#124; conf &#124; HTML &#124; Scala &#124; fish &#124; Lua &#124; Properties &#124; Vim Script &#124; Image (png) &#124; SCSS|
+|2022-07-29|10h 53m|JavaScript &#124; TypeScript &#124; fugitive &#124; JSON &#124; Other &#124; netrw &#124; Git &#124; Text &#124; conf &#124; HTML &#124; Scala &#124; fish &#124; Lua &#124; Properties &#124; Vim Script &#124; Image (png) &#124; SCSS|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
