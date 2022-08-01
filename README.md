@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2022-07-29|10h 53m|JavaScript &#124; TypeScript &#124; fugitive &#124; JSON &#124; Other &#124; netrw &#124; Git &#124; Text &#124; conf &#124; HTML &#124; Scala &#124; fish &#124; Lua &#124; Properties &#124; Vim Script &#124; Image (png) &#124; SCSS|
 |2022-07-30|5h 15m|Scala &#124; TypeScript &#124; fugitive &#124; Other &#124; fish &#124; netrw &#124; conf &#124; JavaScript &#124; HTML &#124; Lua &#124; Git &#124; Properties &#124; Vim Script &#124; Image (png) &#124; SCSS|
 |2022-07-31|0h 0m|fish &#124; netrw|
-|2022-08-01|0h 0m||
+|2022-08-01|1h 24m|JSON &#124; Scala &#124; CSV &#124; fugitive &#124; netrw &#124; Other|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
