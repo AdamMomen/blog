@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2022-08-17|0h 0m||
 |2022-08-18|0h 41m|conf &#124; sh &#124; Other &#124; Makefile|
 |2022-08-19|1h 54m|conf &#124; sh &#124; Other &#124; Makefile &#124; TypeScript &#124; Python &#124; Bash &#124; Vim Script &#124; sshconfig &#124; Lua &#124; Text &#124; netrw &#124; HTML|
-|2022-08-20|2h 35m|TypeScript &#124; Python &#124; Bash &#124; Vim Script &#124; sshconfig &#124; Lua &#124; Text &#124; Other &#124; netrw &#124; HTML|
+|2022-08-20|4h 53m|TypeScript &#124; Python &#124; Bash &#124; Vim Script &#124; sshconfig &#124; Lua &#124; Text &#124; Other &#124; netrw &#124; HTML &#124; JSON &#124; Git|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
