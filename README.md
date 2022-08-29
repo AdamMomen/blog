@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2022-08-23|3h 26m|rtf &#124; Python &#124; Scala &#124; Text &#124; JSON &#124; Bash &#124; netrw &#124; Lua &#124; Other &#124; Vim Script &#124; conf &#124; sshconfig &#124; Docker &#124; dcl &#124; dosini|
 |2022-08-24|4h 17m|Python &#124; Scala &#124; Text &#124; JSON &#124; Bash &#124; netrw &#124; Lua &#124; Other &#124; Vim Script &#124; conf &#124; sshconfig &#124; Docker &#124; dcl &#124; dosini &#124; JavaScript &#124; Properties|
 |2022-08-25|4h 39m|Bash &#124; JavaScript &#124; Vim Script &#124; netrw &#124; Properties &#124; Python &#124; Scala &#124; conf &#124; Other &#124; JSON &#124; TypeScript|
 |2022-08-26|3h 54m|Scala &#124; Python &#124; JavaScript &#124; conf &#124; Other &#124; Bash &#124; netrw &#124; JSON &#124; TypeScript &#124; sh|
 |2022-08-27|1h 43m|conf &#124; Python &#124; sh &#124; netrw &#124; JSON &#124; Scala &#124; JavaScript &#124; Bash &#124; Lua|
 |2022-08-28|1h 37m|JSON &#124; Scala &#124; JavaScript &#124; netrw &#124; Bash &#124; Lua &#124; conf|
+|2022-08-29|0h 0m||
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
