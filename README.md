@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2022-09-04|0h 2m|INI &#124; netrw &#124; Lua &#124; Other &#124; Vim Script|
 |2022-09-05|0h 2m|INI &#124; netrw &#124; Lua &#124; Other &#124; Vim Script|
 |2022-09-06|0h 0m|Python|
 |2022-09-07|0h 0m|Python|
 |2022-09-08|0h 0m||
 |2022-09-09|1h 5m|TypeScript &#124; Python &#124; netrw &#124; Other &#124; Roff|
+|2022-09-10|1h 5m|TypeScript &#124; Python &#124; netrw &#124; Other &#124; Roff|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
