@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2022-10-11|0h 0m||
 |2022-10-12|0h 0m||
 |2022-10-13|0h 0m||
-|2022-10-14|2h 19m|i3config &#124; zsh &#124; tmux &#124; Other &#124; netrw|
+|2022-10-14|3h 50m|zsh &#124; i3config &#124; tmux &#124; Other &#124; netrw &#124; Vim Script|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
