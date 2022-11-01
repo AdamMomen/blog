@@ -16,8 +16,8 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
 
-## Top 1 friends ⭐️
-euguilhermegirardi
+## Top 2 friends ⭐️
+daweedkob, euguilhermegirardi
 
 *Star [this repo](https://github.com/AdamMomen/AdamMomen), to add yourself here.*
 
