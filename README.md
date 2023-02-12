@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2023-02-09|0h 0m|Python|
 |2023-02-10|0h 3m|Python &#124; netrw|
 |2023-02-11|0h 28m|Python &#124; netrw &#124; TypeScript|
-|2023-02-12|0h 24m|Python &#124; TypeScript|
+|2023-02-12|0h 36m|Python &#124; TypeScript &#124; netrw|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
