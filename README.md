@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2023-03-23|2h 46m|Docker &#124; Bash &#124; YAML &#124; Other &#124; JSON &#124; netrw &#124; TypeScript &#124; Python &#124; sh &#124; Git &#124; zsh|
 |2023-03-24|3h 20m|Docker &#124; Bash &#124; YAML &#124; Other &#124; JSON &#124; netrw &#124; TypeScript &#124; Python &#124; sh &#124; Git &#124; zsh &#124; dockerfile|
 |2023-03-25|0h 43m|Docker &#124; Python &#124; dockerfile &#124; netrw &#124; YAML &#124; JSON &#124; Bash &#124; Other|
-|2023-03-26|1h 1m|Bash &#124; Other &#124; YAML &#124; Python &#124; Docker &#124; Text|
+|2023-03-26|1h 35m|Bash &#124; Other &#124; YAML &#124; Docker &#124; Python &#124; TypeScript &#124; Text &#124; JSON &#124; netrw|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
