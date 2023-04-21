@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2023-04-18|0h 0m||
 |2023-04-19|0h 0m||
 |2023-04-20|0h 44m|TypeScript &#124; Bash &#124; Text &#124; Python &#124; YAML|
-|2023-04-21|0h 44m|TypeScript &#124; Bash &#124; Text &#124; Python &#124; YAML|
+|2023-04-21|0h 48m|TypeScript &#124; Bash &#124; Text &#124; Python &#124; YAML &#124; Docker|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
