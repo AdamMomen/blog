@@ -11,7 +11,7 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 |2023-09-08|2h 45m|Solidity &#124; JavaScript &#124; Bash &#124; Markdown &#124; JSON &#124; Ezhil &#124; ActionScript|
 |2023-09-09|0h 55m|Solidity &#124; JavaScript &#124; JSON &#124; Markdown|
 |2023-09-10|0h 0m||
-|2023-09-11|0h 0m||
+|2023-09-11|0h 0m|JavaScript|
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
