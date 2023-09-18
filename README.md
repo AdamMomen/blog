@@ -6,12 +6,12 @@ Stats pulled from Wakatime api an extension tha runs on my vscode 24/7.
 
 |Day|Hours of coding|Languages/Tech|
 |:-:|:-:|:-:|
-|2023-09-12|1h 55m|JavaScript &#124; Solidity &#124; JSON &#124; YAML &#124; Ezhil|
 |2023-09-13|2h 28m|JavaScript &#124; Solidity &#124; JSON &#124; YAML &#124; Ezhil|
 |2023-09-14|0h 32m|JavaScript &#124; Solidity|
 |2023-09-15|0h 39m|Solidity &#124; JavaScript|
 |2023-09-16|0h 39m|Solidity &#124; JavaScript|
 |2023-09-17|0h 0m||
+|2023-09-18|0h 0m||
 
 ## Latest tweet
 [<img src="<tweet-image-url>" width="400">](<tweet-url>)
