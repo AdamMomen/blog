@@ -1,5 +1,9 @@
 ---
-layout: home
-title: Home
+layout: About
+title: About
 ---
-Welcome to my poorly maintained blog where I share poorly researched topics and idea.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com
+
+You can find the source code for Minima at GitHub: jekyll / minima
+
+You can find the source code for Jekyll at GitHub: jekyll / jekyll

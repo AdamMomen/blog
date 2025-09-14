@@ -2,8 +2,22 @@ title: "Momen's Blog"
 description: "Thoughts, notes, and shipping logs."
 url: "https://adammomen.github.io"
 theme: minima
+
+# Social links (like geohot's setup)
+github_username: AdamMomen
+twitter_username: adammomen  # Change this to your actual Twitter handle
+
+# Custom settings
+author:
+  name: "Adam Momen"
+  emoji: "🚀"  # Your signature emoji
+
+# Google Analytics (replace with your tracking ID)
+# google_analytics: G-XXXXXXXXXX  # Uncomment and add your GA4 tracking ID
+
 plugins:
   - jekyll-feed
+
 markdown: kramdown
 kramdown:
   input: GFM
