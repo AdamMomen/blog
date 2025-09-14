@@ -1,23 +1,27 @@
-title: "Momen's Blog"
-description: "Thoughts, notes, and shipping logs."
-url: "https://adammomen.github.io"
-theme: minima
+title: the momen-tum is nearer
+email: adammuman81@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A home for thoughts that build momentum, ideas that ship, and notes from the journey.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://adammomen.github.io" # the base hostname & protocol for your site
 
-# Social links (like geohot's setup)
 github_username: AdamMomen
-twitter_username: adammomen # Change this to your actual Twitter handle
 
-# Custom settings
-author:
-  name: "Adam Momen"
-  emoji: "🚀" # Your signature emoji
-
-# Google Analytics (replace with your tracking ID)
-# google_analytics: G-XXXXXXXXXX  # Uncomment and add your GA4 tracking ID
-
+# Build settings
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
-markdown: kramdown
-kramdown:
-  input: GFM
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
