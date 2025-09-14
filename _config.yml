@@ -1,6 +1,6 @@
 title: "Momen's Blog"
 description: "Thoughts, notes, and shipping logs."
-url: "https://blog.adammomen.com"
+url: "https://adammomen.github.io"
 theme: minima
 plugins:
   - jekyll-feed
