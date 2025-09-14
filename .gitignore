@@ -1,15 +1,24 @@
-#
-vendor
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Remove envirmonment varilbes
+# Dependencies
+vendor/
+node_modules/
+
+# Environment variables
 .env
 
-# remove history files
+# History files
 *.history
 
-# vscode
-.vscode
+# VSCode
+.vscode/
 
-# github settings
+# GitHub settings
 .github/*
+
+# macOS
 .DS_Store
