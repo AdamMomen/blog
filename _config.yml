@@ -1,0 +1,9 @@
+title: "Momen's Blog"
+description: "Thoughts, notes, and shipping logs."
+url: "https://blog.adammomen.com"
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
