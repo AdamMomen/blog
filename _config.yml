@@ -5,12 +5,12 @@ theme: minima
 
 # Social links (like geohot's setup)
 github_username: AdamMomen
-twitter_username: adammomen  # Change this to your actual Twitter handle
+twitter_username: adammomen # Change this to your actual Twitter handle
 
 # Custom settings
 author:
   name: "Adam Momen"
-  emoji: "🚀"  # Your signature emoji
+  emoji: "🚀" # Your signature emoji
 
 # Google Analytics (replace with your tracking ID)
 # google_analytics: G-XXXXXXXXXX  # Uncomment and add your GA4 tracking ID
