@@ -13,6 +13,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Custom layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # Exclude from processing.
 exclude:
   - .sass-cache/

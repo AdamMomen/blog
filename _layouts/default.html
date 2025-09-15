@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include head.html -%}
+
+  <body>
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script>
+      // Check for saved user preference
+      const isDark = localStorage.getItem('dark-mode') === 'true';
+      
+      if (isDark) {
+        DarkReader.enable();
+      }
+      
+      // Get the toggle button from header
+      const toggleButton = document.getElementById('theme-toggle');
+      
+      if (toggleButton) {
+        // Set initial icon based on current state
+        toggleButton.innerHTML = isDark ? '☀️' : '🌙';
+        
+        // Add click event listener
+        toggleButton.addEventListener('click', () => {
+          if (DarkReader.isEnabled()) {
+            DarkReader.disable();
+            localStorage.setItem('dark-mode', 'false');
+            toggleButton.innerHTML = '🌙';
+          } else {
+            DarkReader.enable();
+            localStorage.setItem('dark-mode', 'true');
+            toggleButton.innerHTML = '☀️';
+          }
+        });
+      }
+    </script>
+  </body>
+
+</html>
