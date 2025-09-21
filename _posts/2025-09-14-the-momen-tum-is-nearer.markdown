@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the momen-tum is nearer"
+title:  "The momen-tum is nearer"
 date:   2025-09-14 16:35:00 +0800
 categories: jekyll update
 ---
