@@ -3,10 +3,6 @@ layout: post
 title: I Refuse To Be A Victim
 date: 2025-09-21
 ---
-<!-- Write here -->
-Date: 13 Sep, 2025
-
-# I Refuse to Be a Victim
 
 The visa officer skimmed my documents and slid them back across the glass. **Denied.**
 
