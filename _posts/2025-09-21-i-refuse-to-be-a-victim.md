@@ -89,7 +89,7 @@ The work continues tomorrow. Same reps. Clearer focus. Better service.
 
 ---
 
-### Three takeaways I hope you leave with
+### Three takeaways 
 
 1. **Agency over labels.** You can’t pick your passport, but you can pick your response—habits, output, integrity.
 2. **Progress through adaptation.** When a door shuts, stop arguing with the door. Design a path around it.
