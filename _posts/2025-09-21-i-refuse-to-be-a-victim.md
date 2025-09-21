@@ -14,7 +14,7 @@ I don’t control borders. I control what I do next.
 
 ## Where the switch flipped
 
-As a kid I loved games. more than I loved Marvel movies my favorite? Spider-man! The scenes of NY Time Square is printed in my brain. That is a place I want to be. I loved video games a lot, but I knew if I want to be in the US I have to be serious. I stopped playing and poured those hours into studying. Reps, not hacks. I learned that if I keep showing up every day, even in small ways momentum compounds. That discipline, more than any single break, has carried me.
+As a kid, I loved games—more than I loved Marvel movies. My favorite? Spider-Man! The scenes of NY Times Square are etched in my brain. That is a place I want to be. I loved video games a lot, but I knew if I wanted to be in the US, I had to be serious. I stopped playing and poured those hours into studying. Reps, not hacks. I learned that if I keep showing up every day, even in small ways, momentum compounds. That discipline, more than any single break, has carried me.
 
 ## Ambition is a checkpoint, not a destination
 
