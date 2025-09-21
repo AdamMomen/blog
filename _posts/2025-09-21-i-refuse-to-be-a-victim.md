@@ -36,7 +36,7 @@ That’s the scoreboard I trust and hold myself accountable.
 
 ## Building where doors are actually open
 
-Along the way, I helped port the Open Cap Table Protocol ([OCP](https://github.com/open-captable-protocol/ocp)) to Solana. That work drew interest from the Solana Foundation. More importantly, it reminded me of a truth I keep coming back to: **code is permissionless**. You can reject my US visa. You can freeze my Deel account. You can’t stop me from writing software that works.
+Along the way, I helped port the Open Cap Table Protocol OCP to Solana. That work drew interest from the Solana Foundation. More importantly, it reminded me of a truth I keep coming back to: **code is permissionless**. You can reject my US visa. You can freeze my Deel account. You can’t stop me from writing software that works.
 
 When one platform or policy closes a door, I look for the rooms where merit still speaks the loudest *open source*.
 
