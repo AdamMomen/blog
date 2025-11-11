@@ -4,7 +4,7 @@ title: "Talk Like HTTP"
 date: 2025-11-11
 ---
 <style>
-h3 { margin-top: 3em; margin-bottom: 2em; }
+h3 { margin-top: 3em; margin-bottom: 0.5em; }
 </style>
  <script type="module">
      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
